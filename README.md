@@ -1,2 +1,2 @@
-# Ejercicios Prgrama Data Analytics THE POWER MBA
+# Ejercicios Programa Data Analytics THE POWER MBA
 
