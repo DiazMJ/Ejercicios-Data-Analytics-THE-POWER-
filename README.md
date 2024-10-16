@@ -1,2 +1,2 @@
-# Ejercicios
-ejercicios `prework en local
+# Ejercicios Programa Data Analytics THE POWER MBA
+
